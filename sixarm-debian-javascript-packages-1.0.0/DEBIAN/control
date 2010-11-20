@@ -1,0 +1,10 @@
+Package: sixarm-debian-javascript-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: libv8-dev
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Javascript stack of pacakges we like to use
+ Javascript packages we like to use together.
+
